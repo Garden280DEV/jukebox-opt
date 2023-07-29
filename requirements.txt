@@ -1,3 +1,4 @@
+cupy-cuda110
 fire
 tqdm
 soundfile
